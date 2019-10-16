@@ -1,11 +1,13 @@
-package com.porchelvi.hackerrankSolutionsForJava;
+package com.porchelvi.hackerrankSolutionsForJava.Java;
 
 import java.util.Scanner;
 
 public class JavaStdinandStdoutII {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+		scan = new Scanner(System.in);
 		int i = scan.nextInt();
 		double d = scan.nextDouble();
 		String s = scan.nextLine();
