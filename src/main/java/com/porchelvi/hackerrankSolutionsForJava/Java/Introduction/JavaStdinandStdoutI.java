@@ -1,4 +1,4 @@
-package com.porchelvi.hackerrankSolutionsForJava.Java;
+package com.porchelvi.hackerrankSolutionsForJava.Java.Introduction;
 
 import java.util.Scanner;
 
