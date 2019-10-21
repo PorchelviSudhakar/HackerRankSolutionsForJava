@@ -1,5 +1,5 @@
 # HackerRankSolutionsForJava
-This section contains the HackerRankSolutions in Java Section.Java Introdution section is available,remaining coding solutions will be uploaded.
+This section contains the HackerRankSolutions in Java Section.In Java, Introdution section is available,remaining coding solutions will be uploaded.
 
 # Prerequisites
 Eclipse IDE/IntelliJ IDE Java 1.8
